@@ -3,6 +3,7 @@
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 About this:
+
 1.Typescript is not used optimally.
 
 2.Sometimes the card crashes to load the card and show inapropriate behavior.
