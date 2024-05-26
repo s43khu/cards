@@ -6,3 +6,7 @@ About this:
 1.Typescript is not used optimally.
 2.Sometimes the card crashes to load the card and show inapropriate behavior.
 3.Not optimal for all screen sizes.
+
+
+
+https://s43khu.github.io/cards
