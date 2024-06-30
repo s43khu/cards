@@ -13,4 +13,4 @@ About this:
 
 
 https://s43khu.github.io/cards
-Working on the backend part to make this online and adding abilities and tactical cards to make it more strategical to play but for now it's a totally luck based.
+for now it's a totally luck based.
