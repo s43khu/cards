@@ -11,6 +11,8 @@ About this:
 3.Not optimal for all screen sizes.
 
 
+fixing bugs right now.....
+
 
 https://s43khu.github.io/cards
 for now it's a totally luck based.
